@@ -36,3 +36,11 @@ echo "✅ Script is now executable."
 # Run the script (inherits environment variables)
 echo "🚀 Running the script..."
 ./"$SCRIPT_NAME"
+
+echo " "
+echo " "
+echo "Arey Yarrrr"
+echo " "
+echo " "
+
+
