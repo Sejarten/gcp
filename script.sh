@@ -1,7 +1,7 @@
 #!/bin/bash
 SCRIPT_URL="https://raw.githubusercontent.com/Sejarten/gcp/refs/heads/main/lab.sh"
 
-SCRIPT_NAME=$(basename"$SCRIPT_URL")
+SCRIPT_NAME="lab.sh"
 
 echo "Downloading script from $SCRIPT_URL...."
 wget -q "$SCRIPT_URL" -O "$SCRIPT_NAME"
