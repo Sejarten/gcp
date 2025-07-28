@@ -21,7 +21,7 @@ SCRIPT_URL="https://raw.githubusercontent.com/Sejarten/gcp/refs/heads/main/lab.s
 SCRIPT_NAME="lab.sh"
 
 # Download the script
-echo "📥 Downloading script from $SCRIPT_URL..."
+echo "📥 Downloading script from Ashwini Engal Thalaivi"
 wget -q "$SCRIPT_URL" -O "$SCRIPT_NAME"
 
 if [ $? -ne 0 ]; then
