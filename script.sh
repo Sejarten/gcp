@@ -1,5 +1,5 @@
 #!/bin/bash
-SCRIPT_URL="https://github.com/Sejarten/gcp/blob/4db11daf1508ef843393e71230dc90512f0e74cc/lab.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/Sejarten/gcp/refs/heads/main/lab.sh"
 
 SCRIPT_NAME=$(basename"$SCRIPT_URL")
 
